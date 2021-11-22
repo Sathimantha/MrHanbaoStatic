@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>News</title>
+    <link href="https://www.mrhanbao.com/blog/2"/>
+    <id>https://www.mrhanbao.com/blog/2</id>
+    <updated>2021-10-15T19:25:04Z</updated>
+    <entry>
+        <title>Grand Opening</title>
+        <link href="https://www.mrhanbao.com/blog/news-2/grand-opening-1"/>
+        <id>https://www.mrhanbao.com/blog/news-2/grand-opening-1</id>
+        <author><name>Administrator</name></author>
+        <summary>We bring the best taste to you from our kitchen and we invite you to join us at the inauguration of our restaurant on Saturday 16th of October, 3PM onwards Sincerely, The Mr. Hanbao Team...</summary>
+        <updated>2021-10-15T19:25:04Z</updated>
+    </entry>
+</feed>

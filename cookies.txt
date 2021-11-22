@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.mrhanbao.com	TRUE	/	FALSE	1999999999	frontend_lang	en_US
+www.mrhanbao.com	TRUE	/	FALSE	1999999999	visitor_uuid	fe2f20fac5274f6f869559026df58174
+www.mrhanbao.com	TRUE	/	FALSE	1999999999	session_id	a2b66042767de9ce8ba3137fb44a4af068d48d14
+
